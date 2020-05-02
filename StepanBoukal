@@ -1,1 +1,53 @@
-//skolni zapisky jsem omylem ztratil 
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <?php
+         
+        
+        
+        use Tracy\Debugger;
+
+        Debugger::enable();
+
+         include(StepanBoukal/autoload.php);
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        ?>
+    </body>
+</html>
